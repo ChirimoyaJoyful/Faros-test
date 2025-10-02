@@ -1,0 +1,13 @@
+no_ordencompra,fecha_oc,codigo_ean,descripcion,cantidad,cantidad_recibida,
+OC-2024-001,2024-01-15,7501055311453,Casco de Seguridad MSA V-Gard con Rachet,100,95,245.50
+OC-2024-002,2024-01-18,7501055311460,Guantes de Nitrilo Resistentes a Químicos,50,50,178.90
+OC-2024-003,2024-01-20,7501055311477,Arnés de Seguridad de Cuerpo Completo 3M,75,70,325.75
+OC-2024-004,2024-01-25,7501055311484,Lentes de Seguridad Anti-empanantes UV,200,190,89.99
+OC-2024-005,2024-02-01,7501055311491,Botas de Seguridad con Punta de Acero,150,150,156.80
+OC-2024-006,2024-02-05,7501055311507,Respirador Media Cara 3M Serie 6200,80,75,445.20
+OC-2024-007,2024-02-10,7501055311514,Protector Auditivo Tipo Copa 3M Peltor,120,115,267.30
+OC-2024-008,2024-02-15,7501055311521,Chaleco Reflectivo Alta Visibilidad Clase 2,90,90,198.45
+OC-2024-009,2024-02-20,7501055311538,Línea de Vida Retráctil 15m con Gancho,160,155,134.90
+OC-2024-010,2024-02-25,7501055311545,Careta de Protección Facial con Visor,100,95,289.99
+OC-2024-013,2024-02-10,testcode,Objeto de Prueba Pruebeitor 7000 PLUS MAX PRO,150,100,123.15
+OC-2025-001,2025-10-01,pruebaDeItroduccion,Producto de testeo Testeitor 5000 MAX PRO SIGMA PLUS,5,4,550.00
