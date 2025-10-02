@@ -13,10 +13,10 @@ cd ordenes-compra
 ````
 
 2. Backend:
-
+```bash
 npm install
 npm run dev
-
+````
 El backend correrá en http://localhost:3000
 
 Endpoints disponibles:
@@ -29,10 +29,10 @@ Endpoints disponibles:
 * DELETE /api/:id → Eliminar una orden.
 
 3. Frontend:
-   
+```bash  
 cd frontend
 npm install
 npm run dev
-
+````
 El frontend se abrirá en http://localhost:3001
 
