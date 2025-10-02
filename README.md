@@ -3,16 +3,9 @@
 - [Node.js](https://nodejs.org/) >= 20
 - [npm](https://www.npmjs.com/) >= 10
 
-##  Instalación y ejecución
+##  Ejecución
 
-1. Clonar el repositorio:
-
-```bash
-git clone https://github.com/ChirimoyaJoyful/Faros-test.git
-cd ordenes-compra
-````
-
-2. Backend:
+1. Backend:
 ```bash
 npm install
 npm run dev
@@ -28,7 +21,7 @@ Endpoints disponibles:
 * PUT /api/update/:id → Actualizar fecha o código EAN de una orden.
 * DELETE /api/:id → Eliminar una orden.
 
-3. Frontend:
+2. Frontend:
 ```bash  
 cd frontend
 npm install
